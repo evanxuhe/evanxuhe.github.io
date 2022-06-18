@@ -1,4 +1,5 @@
-
+# flink安装教程
+[toc]
 
 
 ### 安装jdk
@@ -15,3 +16,4 @@ sudo apt install openjdk-11-jdk openjdk-11-jre
 # --no-check-certificate是跳过认证
 wget --no-check-certificate  https://mirrors.aliyun.com/apache/flink/flink-1.15.0/flink-1.15.0-bin-scala_2.12.tgz
 ```
+[aliyun开源镜像站](https://mirrors.aliyun.com/apache/flink/flink-1.15.0/)
